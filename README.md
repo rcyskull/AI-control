@@ -2,15 +2,5 @@
 
 ### 내가 만든 첫 마크다운 파일입니다.
 
-# 자기소개서
-
-!img src=C:\Users\jieun\Pictures
-
-:---|:---:
-헤더1|헤더2
-Left|Center
-이름|아건영
-나이|23
-생년월일|2000.08.19
-사는 곳|통영
-
+# vim 사용법
+ ![alt text]http://lh4.ggpht.com/_Os5qf5urx_A/SzmJvC4uGJI/AAAAAAAAA6o/sgOhizg27n0/s800/vi-vim-cheat-sheet-ko.png
