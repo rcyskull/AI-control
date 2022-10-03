@@ -16,7 +16,8 @@
 | 가족 | 1남 3녀 둘쨰 |
 | 사는 곳 | 통영 |
 
-![image description](https://blog.kakaocdn.net/dn/dGJggC/btrd0G9MkgS/23IqLpmYZs03m67I9qYdg1/img.jpg)
+![image description](https://blog.kakaocdn.net/dn/dGJggC/btrd0G9MkgS/23IqLpmYZs03m67I9qYdg1/img.jpg) width="200" height="200" />
+
 
 
 자격증
