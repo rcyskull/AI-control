@@ -4,20 +4,18 @@
 
 # 자기소개서
 
-![image description](https://ifh.cc/v-Nxg2Ma) width="400px" alt="sample image">
-</a>
-
+![image description](https://user-images.githubusercontent.com/112445732/193611260-ad537d9e-b8b5-47e9-bf80-092decda6f3f.jpg)
 
 |  |  | 
 |:---:|:---:|
 | 이름 | 이건영 |
-| 나이 | 23세 |
+| 나이 | 23세 |![Uploading 증명사진.jpg…]()
+
 | 생년월일 | 2000.08.19 |
 | 가족 | 1남 3녀 둘쨰 |
 | 사는 곳 | 통영 |
 
-![image description](https://blog.kakaocdn.net/dn/dGJggC/btrd0G9MkgS/23IqLpmYZs03m67I9qYdg1/img.jpg) width="200" height="200" />
-
+![image description](https://blog.kakaocdn.net/dn/dGJggC/btrd0G9MkgS/23IqLpmYZs03m67I9qYdg1/img.jpg)
 
 
 자격증
