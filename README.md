@@ -4,7 +4,9 @@
 
 # 자기소개서
 
-![image description](https://ifh.cc/v-Nxg2Ma)width="200" height="200"
+![image description](https://ifh.cc/v-Nxg2Ma) width="400px" alt="sample image">
+</a>
+
 
 |  |  | 
 |:---:|:---:|
