@@ -15,3 +15,8 @@
 ![image description](https://blog.kakaocdn.net/dn/dGJggC/btrd0G9MkgS/23IqLpmYZs03m67I9qYdg1/img.jpg)
 
 
+자격증
+1.정보기술자격(ITQ)
+  i.한글
+  i.엑셀
+  i.파워포인트
