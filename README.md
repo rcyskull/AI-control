@@ -4,9 +4,9 @@
 
 # 자기소개서
 
-![image description](https://user-images.githubusercontent.com/112445732/193611260-ad537d9e-b8b5-47e9-bf80-092decda6f3f.jpg)"width=400"
+![image description](https://user-images.githubusercontent.com/112445732/193612156-8439d3a0-b13e-40d0-a09d-a5b6ff51880b.jpg)
 
-|  |  | 
+|  |  |
 |:---:|:---:|
 | 이름 | 이건영 |
 | 나이 | 23세 |
