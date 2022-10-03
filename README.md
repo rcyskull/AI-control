@@ -4,7 +4,8 @@
 
 # 자기소개서
 
-![image description](https://ifh.cc/g/Nxg2Ma.jpg)
+![image description](https://ifh.cc/v-Nxg2Ma)width="200" height="200"
+
 |  |  | 
 |:---:|:---:|
 | 이름 | 이건영 |
