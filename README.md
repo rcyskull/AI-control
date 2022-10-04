@@ -9,4 +9,4 @@
 | 이름 | 김태현 |
 | 생년월일  | 2001.03.20 |
 | 취미 | 야구,스포츠경기시청 |
-|  | ![Image Description](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MjZfNDkg%2FMDAxNTYxNTQ2ODkwNjc4.vwJ2xt-oVbHmuSwZg3XwWbFpQJczKZ-IWKEv4XBLtmQg.eWzkdAA5URQTKxNXMDTPSoQE9bV-K3ch9ulRChE4Nisg.JPEG.efree2h%2FKakaoTalk_20190626_194110242_08.jpg&type=a340)
+| 응원하는 팀 | ![Image Description](https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=%EC%97%94%EC%94%A8%EB%8B%A4%EC%9D%B4%EB%85%B8%EC%8A%A4&oquery=%EC%B0%BD%EC%9B%90%EC%97%94%EC%94%A8%ED%8C%8C%ED%81%AC&tqi=hzX1Qwprvmsssj5rIeCssssstaG-334309#)
